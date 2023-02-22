@@ -29,4 +29,4 @@ telegram_bot.py dosyasında CHAT_ID değişkenini bulun ve Telegram botunuzla il
 **Lisans**
 Bu proje, MIT lisansı altında lisanslanmıştır.
 
-Bu belge, Telegram Deprem Botu projesi için README dosyasıdır. Deprem verileri Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nden alınmıştır.
+Bu belge, Telegram Deprem Botu projesi için README dosyasıdır. Deprem verileri Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'ndeki web sitesindeki anlık verileri ile alınmaktadır.
