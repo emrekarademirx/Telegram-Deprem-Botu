@@ -1,11 +1,12 @@
-Telegram Deprem Botu
+**Telegram Deprem Botu**
+
 Bu proje, Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nün web sitesindeki verileri kullanarak anlık olarak deprem bilgilerini Telegram botu aracılığıyla gönderir.
 
-Gereksinimler
+**Gereksinimler**
 Python 3.x
 python-telegram-bot kütüphanesi
 requests kütüphanesi
-Kurulum
+**Kurulum**
 Bu depoyu klonlayın veya indirin.
 
 Telegram bot token'ınızı alın. Bunun için BotFather botunu kullanabilirsiniz.
@@ -25,7 +26,7 @@ Telegram botunuzun sohbet ID'sini bulun. BotFather botunu kullanarak sohbet ID's
 
 telegram_bot.py dosyasında CHAT_ID değişkenini bulun ve Telegram botunuzla iletişim kurmak istediğiniz sohbetin ID'si ile değiştirin.
 
-Lisans
+**Lisans**
 Bu proje, MIT lisansı altında lisanslanmıştır.
 
 Bu belge, Telegram Deprem Botu projesi için README dosyasıdır. Deprem verileri Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nden alınmıştır.
